@@ -1,0 +1,22 @@
+body{
+    background-color:aqua;
+}
+
+table{
+    border: 4px;
+    padding: 5px;
+    color: black;
+    border-radius: 50%;
+    
+}
+.zed2{
+
+    border: 20px;
+
+}
+.opp{
+    border-radius: 80%;
+}
+.zed3{
+border-color: black;
+}
